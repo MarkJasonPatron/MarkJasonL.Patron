@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Mark Jason Patron</h1>
+<h1 align="center">Hi there, I'm Mark Jason Patron <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1>
 <h3 align="center">I'm an aspiring Game Developer 🎮 and I'm also dipping a little bit on cyber security</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarkJasonPatron&label=Profile%20views&color=0e75b6&style=flat" alt="MarkJasonPatron" /> </p>
