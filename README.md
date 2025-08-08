@@ -1,3 +1,5 @@
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+
 <h1 align="center">Hi there, I'm Mark Jason Patron <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1>
 <h3 align="center">I'm an aspiring Game Developer 🎮 and I'm also dipping a little bit on cyber security</h3>
 
