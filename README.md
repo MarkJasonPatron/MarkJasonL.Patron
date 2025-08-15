@@ -10,7 +10,7 @@
 - 📫 How to reach me **bdcpas19@gmail.com**
 
 - ⚡ Fun fact
-- **The metal or plastic tube at the end of your shoelace is called aglet**
+- **It’s a common misbelief that the Firefox logo is a fox (I mean… it is in the name), but it is actually a red panda!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
